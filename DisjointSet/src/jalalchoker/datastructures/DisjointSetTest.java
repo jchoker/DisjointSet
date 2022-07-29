@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 class DisjointSetTest {
 
 	@Test
-	void test() {
+	 void test() {
 		
 		// subset size:	  1  1  1  1  1  1 1
 		// roots:	      0  1  2  3  4  5 6
